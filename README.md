@@ -1,3 +1,3 @@
-# Mi primer proyecto
+# JS-Rolling
 
-Este es mi primer repositorio en GitHub.
+Proyecto de JavaScript.
